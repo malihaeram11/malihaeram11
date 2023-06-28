@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mongodb**
 
-- 👨‍💻 Most of my projects are available at [https://developershowcase.netlify.app/](https://developershowcase.netlify.app/)
+- 👨‍💻 Most of my projects are available at Github
 
 - 💬 Ask me about **my projects or anything else you'd like to know—I'm here to help!**
 
